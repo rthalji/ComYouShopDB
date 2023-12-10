@@ -3,5 +3,6 @@
 ### Designed for Students, Teachers and Developers for Demonstration Purposes.
 ### Designed to enable almost all SQL Tutorial Commands Demonstrations.
 ### Created by Standard SQL Statements to run on all Database Management Systems.
-### Designed by Trainer Riad Thalji
-### Owner of Riad Thalji Training Establishment (RTE-Training & Consulting rthalji.github.io 2012 to Present).
+#### Designed by Trainer Riad Thalji
+#### Owner of Riad Thalji Training Establishment 
+#### (RTE-Training & Consulting rthalji.github.io 2012 to Present).
