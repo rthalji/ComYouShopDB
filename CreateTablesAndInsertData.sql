@@ -1,7 +1,7 @@
 -- ComYouShop database is not created in this script to let you create it and name it the way you need;
 -- Create the database, then apply the script to build the tables and data.
--- Each time you run this script it drops all its tables if exists before, then recreate them again.
--- It is recommended that you allways run it in a new database you create (Say ComYouShop), so that you don't delete any existing database objects.
+-- Each time you run this script it drops all its tables if exists before, then recreates them again.
+-- It is recommended that you allways run it in a new database you create (Say ComYouShop), so that you don't delete any already existing database objects.
 
 DROP TABLE IF EXISTS Orders;
 DROP TABLE IF EXISTS Products;
