@@ -1,10 +1,13 @@
-USE MyCompany;
+-- ComYouShop database is not created in this script to let you create it and name it the way you need;
+-- Create the database, then apply the script to build the tables and data.
+-- Each time you run this script it drops all its tables if exists before, then recreate them again.
+-- It is recommended that you allways run it in a new database you create (Say ComYouShop), so that you don't delete any existing database objects.
+
 DROP TABLE IF EXISTS Orders;
 DROP TABLE IF EXISTS Products;
 DROP TABLE IF EXISTS Departments;
 DROP TABLE IF EXISTS Customers;
 DROP TABLE IF EXISTS Employees;
-
 
 -- Create tables
 
@@ -21,7 +24,7 @@ CREATE TABLE Employees (
     EmployeeID INT PRIMARY KEY,
     FirstName VARCHAR(50),
     LastName VARCHAR(50),
-	Gender VARCHAR(6),
+    Gender VARCHAR(6),
     DepartmentID INT,
     HireDate DATE,
     Position VARCHAR(50),
@@ -41,7 +44,7 @@ CREATE TABLE Customers (
     CustomerID INT PRIMARY KEY,
     FirstName VARCHAR(50),
     LastName VARCHAR(50),
-	Gender VARCHAR(6),
+    Gender VARCHAR(6),
     Email VARCHAR(255),
     PhoneNumber VARCHAR(15),
     Address VARCHAR(255),
