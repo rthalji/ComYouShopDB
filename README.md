@@ -1,2 +1,2 @@
 # ComYouShopDB
-# A Simplified Employee, Customer, Order Databse for Students, Teachers and Developer for demonstrations.
+## A Simplified Employee, Department, Customer, Order Database for Students, Teachers and Developer for Demonstration Purposes.
