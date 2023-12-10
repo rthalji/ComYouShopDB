@@ -4,4 +4,4 @@
 ### Designed to enable almost all SQL Tutorial Commands Demonstrations.
 ### Created by Standard SQL Statements to run on all Database Management Systems.
 ### Designed by Trainer Riad Thalji
-### Riad Thalji Training Establishment, RTE-Training & Consulting
+### Owner of Riad Thalji Training Establishment, RTE-Training & Consulting
