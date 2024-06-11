@@ -1,5 +1,5 @@
 # Computer Parts Shop Sample Database
-## A Simplified Fictional Computer Parts Shop Database Containing The Following Tables and Data: 
+## A Simplified Fictional Computer Parts Shop Database Containing The Following Tables and Data (Customers, Orders, Products, Employees, Depertments): 
 ### Employees(30 Rows), 
 ### Departments(5 Rows), 
 ### Customers(40 Rows), 
